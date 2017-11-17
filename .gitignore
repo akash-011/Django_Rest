@@ -1,2 +1,7 @@
 djangoenv/*
 DS_Store
+db.sqlite3
+bucketlistapi/api/migrations/*
+bucketlistapi/api/__pycache__/*
+bucketlistapi/__pycache__/*
+*.pyc
